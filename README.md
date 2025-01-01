@@ -143,6 +143,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Project Lead - [Your Name](mailto:your.email@domain.com)
+Project Lead - [Your Name](mailto:wisdom.k.obinna@gmail.com)
 
-Project Link: [https://github.com/yourusername/ai-memo-analysis](https://github.com/yourusername/ai-memo-analysis)
+Project Link: [https://github.com/yourusername/ai-memo-analysis](https://github.com/wisdomobinna/ai-memo-analysis)
