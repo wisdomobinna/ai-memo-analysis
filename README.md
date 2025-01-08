@@ -3,24 +3,6 @@
 ## Overview
 A comprehensive platform for analyzing and visualizing the implementation of the 2024 US National Security Memorandum on AI. This project combines a juried art exhibition platform with analytical tools to explore perceptions of AI-generated art and inform policy recommendations.
 
-## 🎯 Key Features
-
-- **MARCO AI System**
-  - Tracks prompt development and image generation processes
-  - Monitors creative workflow across multiple AI platforms
-  - Generates comprehensive documentation for copyright claims
-
-- **Exhibition Platform**
-  - Virtual and physical exhibition capabilities
-  - Evaluation system for both general users and expert panels
-  - Interactive multimedia feature stories
-
-- **Analysis Dashboard**
-  - Real-time visualization of implementation progress
-  - Department-specific tracking
-  - Timeline management
-  - Dependency mapping
-
 ## 🚀 Getting Started
 
 ### Prerequisites
